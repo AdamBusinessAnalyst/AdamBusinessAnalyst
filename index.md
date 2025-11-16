@@ -2,122 +2,91 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Adam Peterson  
+### Data Analyst · Business Analyst · AI & Automation  
 
-[Link to another page](./another-page.html).
+Hi, I’m Adam – a data analyst focused on turning messy operational data into clear insights and practical actions.  
+I work with **SQL, Excel, Python and BI tools** to help teams make better decisions, faster.
 
-There should be whitespace between paragraphs.
+[Download Resume](./resume.pdf) · [LinkedIn](https://www.linkedin.com/in/AdamBusinessAnalyst) · [GitHub](https://github.com/AdamBusinessAnalyst)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## 🧠 Skills & Tools
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**Analytics:** SQL · Excel · Spreadsheets · A/B testing · KPI tracking  
+**Programming:** Python (Pandas, Jupyter)  
+**Visualization / BI:** Power BI / Looker Studio (learning)  
+**Other:** GitHub · GitHub Pages · Automation (Zapier / Make)
 
-## Header 2
+---
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## ⭐ Featured Projects
 
-### Header 3
+### 1. Customer Support KPI Dashboard  
+![Support Dashboard](./images/project-support-kpi.png)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+**Goal:** Understand call centre performance and spot issues in service quality.  
+**What I did:**
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- Cleaned and combined call logs, QA scores and handle-time data in Excel / SQL  
+- Built a dashboard to track **AHT, FCR, CSAT** and agent performance  
+- Highlighted drivers of low QA scores and long calls
 
-#### Header 4
+**Stack:** Excel, SQL, Pivot Tables, Charts  
+**Links:**  
+- 📊 [Project Repository](https://github.com/AdamBusinessAnalyst/support-kpi-dashboard)  
+- 📄 [Walkthrough / Case Study](https://github.com/AdamBusinessAnalyst/support-kpi-dashboard/blob/main/README.md)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+---
 
-##### Header 5
+### 2. Churn & Retention Analysis (Mock SaaS Dataset)  
+![Churn Analysis](./images/project-churn.png)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+**Goal:** Find which customers are most likely to leave and why.  
+**What I did:**
 
-###### Header 6
+- Wrote SQL queries to segment customers by plan, tenure and behaviour  
+- Calculated churn rates and cohort retention over time  
+- Identified high-risk groups and suggested actions (upsell / save offers)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+**Stack:** PostgreSQL, SQL (CTEs, window functions), Excel for charts  
+**Links:**  
+- 🗃️ [SQL Queries](https://github.com/AdamBusinessAnalyst/sql-churn-analysis)  
+- 📊 [Summary Report](https://github.com/AdamBusinessAnalyst/sql-churn-analysis/blob/main/report.md)
 
-### There's a horizontal rule below this.
+---
 
-* * *
+### 3. Python Automation – Weekly Performance Report  
+![Automation](./images/project-automation.png)
 
-### Here is an unordered list:
+**Goal:** Save time on repetitive weekly reporting.  
+**What I did:**
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+- Used Python (Pandas) to load CSV exports from different tools  
+- Cleaned and merged data, calculated KPIs and created charts  
+- Exported a ready-to-send PDF / PPT with key metrics for management
 
-### And an ordered list:
+**Stack:** Python, Pandas, Matplotlib, Jupyter  
+**Links:**  
+- 🧪 [Code & Notebook](https://github.com/AdamBusinessAnalyst/python-weekly-report)  
+- 🔍 [Example Output](https://github.com/AdamBusinessAnalyst/python-weekly-report/blob/main/example-report.pdf)
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+---
 
-### And a nested list:
+## 📚 Learning & Certifications
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+- IBM Data Analytics Professional Certificate (Coursera)  
+- DataCamp – Intermediate SQL, Excel and Python tracks  
+- Ongoing: Building personal projects in SQL, Excel and Python
 
-### Small image
+---
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+## 📬 Contact
 
-### Large image
+If you’d like to talk about data roles, freelance projects or collaborations:
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: [linkedin.com/in/AdamBusinessAnalyst](https://www.linkedin.com/in/AdamBusinessAnalyst)  
+- 🐙 GitHub: [github.com/AdamBusinessAnalyst](https://github.com/AdamBusinessAnalyst)
 
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
