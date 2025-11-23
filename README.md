@@ -1,12 +1,12 @@
 # Adam Peterson
 
-### Data Analyst · Business Analyst · AI & Automation
+### Data Analyst · AI & Automation
 
 Hi, I’m Adam! I focus on turning messy operational data into clear insights and practical actions. I bridge the gap between raw data and business decisions using SQL, Python, and Automation workflows.
 
-**Location:** Vilnius, Lithuania | **Phone:** +370 675 75960
+**Location:** Vilnius, Lithuania 
 **Email:** adampetersoncode@gmail.com
-[LinkedIn](https://www.linkedin.com/in/adampeterson1) · [GitHub](https://github.com/AdamBusinessAnalyst) · [Portfolio](https://github.com/AdamBusinessAnalyst)
+[LinkedIn](https://www.linkedin.com/in/adampeterson1) · [GitHub](https://github.com/AdamBusinessAnalyst) 
 
 ---
 
@@ -23,6 +23,8 @@ Hi, I’m Adam! I focus on turning messy operational data into clear insights an
 ---
 
 ## Featured Projects
+
+
 
 ### [SkyTab POS Support Analysis (Python & SQL)](https://github.com/AdamBusinessAnalyst/POS-Support-Call-Driver-Analysis)
 * **Goal:** Analyze support ticket data to distinguish between "Hardware" (connectivity) vs. "Operational" (menu config) friction points.
