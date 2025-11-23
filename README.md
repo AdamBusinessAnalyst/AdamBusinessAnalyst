@@ -1,91 +1,59 @@
-# Adam Peterson  
-### Data Analyst · Business Analyst · AI & Automation  
+# Adam Peterson
+### Data Analyst · AI & Automation
 
-Hi, I’m Adam – a data analyst focused on turning messy operational data into clear insights and practical actions.  
-I work with **SQL, Excel, Python and BI tools** to help teams make better decisions, faster.
+Hi, I’m Adam! I focus on turning messy operational data into clear insights and practical actions. I bridge the gap between raw data and business decisions using **SQL, Python, and Automation workflows**.
 
- [LinkedIn](https://www.linkedin.com/in/adampeterson1) · [GitHub](https://github.com/AdamBusinessAnalyst)
+Location: Vilnius, Lithuania | Phone: +370 675 75960 Email: adampetersoncode@gmail.com |
+[LinkedIn](https://www.linkedin.com/in/adampeterson1) · [GitHub](https://github.com/AdamBusinessAnalyst) · [Portfolio](https://github.com/AdamBusinessAnalyst)
 
 ---
 
-## 🧠 Skills & Tools
+## 🛠 Skills & Tech Stack
 
-**Analytics:** SQL · Excel · Spreadsheets · A/B testing · KPI tracking  
-**Programming:** Python (NumPY, Pandas, Jupyter)  
-**Visualization:** / Power BI / Looker Studio / Tableau
-**Automation:** Zapier / Make / N8N
-**Other:** GitHub / JIRA / Automation (Zapier / Make / N8N)
-Data Analysis: SQL (PostgreSQL, Window Functions), Python (Pandas, NumPy), Excel (Pivot Tables, VLOOKUP).
-
-Visualization: IBM Cognos, Matplotlib, Seaborn.
-
-Business Intelligence: Root Cause Analysis, KPI Monitoring, Cohort Analysis.
+| Category | Tools & Concepts |
+| :--- | :--- |
+| **📊 Analysis & Engineering** | **SQL** (PostgreSQL, Window Functions), **Python** (Pandas, NumPy), **Excel** (Pivot Tables, VLOOKUP), ETL Pipelines |
+| **📈 Visualization** | Power BI, Looker Studio, Tableau, IBM Cognos, Matplotlib, Seaborn |
+| **🤖 Automation & AI** | Zapier, Make (Integromat), n8n |
+| **🧠 Business Intelligence** | A/B Testing, KPI Monitoring, Cohort Analysis, Root Cause Analysis |
+| **⚙️ Workflow** | Git/GitHub, JIRA, Jupyter Notebooks |
 
 ---
 
 ## ⭐ Featured Projects
 
-### 1. Customer Support KPI Dashboard  
+SkyTab POS Support Analysis (Python & SQL) | Self-Initiated Work Project
 
-**Goal:** Understand call centre performance and spot issues in service quality.  
-**What I did:**
+Goal: Analyze support ticket data to distinguish between "Hardware" (connectivity) vs. "Operational" (menu config) friction points.
 
-- Cleaned and combined call logs, QA scores and handle-time data in Excel / SQL  
-- Built a dashboard to track **AHT, FCR, CSAT** and agent performance  
-- Highlighted drivers of low QA scores and long calls
+Tech: Python (Pandas for cleaning), SQL (for volume aggregation).
 
-**Stack:** Excel, SQL, Pivot Tables, Charts  
-**Links:**  
-- 📊 [Project Repository](https://github.com/AdamBusinessAnalyst/support-kpi-dashboard)  
-- 📄 [Walkthrough / Case Study](https://github.com/AdamBusinessAnalyst/support-kpi-dashboard/blob/main/README.md)
+Outcome: Quantified that printer connectivity issues take 3x longer to resolve than menu updates, validating the need for a specialized hardware support tier.
 
+Tech Workforce Labor Market Analysis (IBM Capstone) | Feb 2025
+
+Goal: Analyze 90,000+ StackOverflow survey responses to identify high-value programming skills.
+
+Tech: Python (Data Cleaning), IBM Cognos (Dashboarding).
+
+Outcome: Built an interactive dashboard revealing that while Python is the fastest-growing language, SQL remains the most critical baseline skill for data roles.
 ---
 
-### 2. Churn & Retention Analysis (Mock SaaS Dataset)  
+## 📚 Education and Certifications
 
-**Goal:** Find which customers are most likely to leave and why.  
-**What I did:**
+* **DataCamp** – SQL, Excel, and Python Tracks
+* **AnalystBuilder.com** – Practical Data Analysis
+EDUCATION & CERTIFICATIONS
 
-- Wrote SQL queries to segment customers by plan, tenure and behaviour  
-- Calculated churn rates and cohort retention over time  
-- Identified high-risk groups and suggested actions (upsell / save offers)
+IBM Data Analyst Professional Certificate | Coursera (Completed Feb 2025)
 
-**Stack:** PostgreSQL, SQL (CTEs, window functions), Excel for charts  
-**Links:**  
-- 🗃️ [SQL Queries](https://github.com/AdamBusinessAnalyst/sql-churn-analysis)  
-- 📊 [Summary Report](https://github.com/AdamBusinessAnalyst/sql-churn-analysis/blob/main/report.md)
+Comprehensive 9-course specialization covering SQL, Python, Data Visualization, and Excel.
 
----
+Capstone: End-to-end analysis of a real-world dataset, achieving a 100% peer-review score.
 
-### 3. Python Automation – Weekly Performance Report  
-
-**Goal:** Save time on repetitive weekly reporting.  
-**What I did:**
-
-- Used Python (Pandas) to load CSV exports from different tools  
-- Cleaned and merged data, calculated KPIs and created charts  
-- Exported a ready-to-send PDF / PPT with key metrics for management
-
-**Stack:** Python, Pandas, Matplotlib, Jupyter  
-**Links:**  
-- 🧪 [Code & Notebook](https://github.com/AdamBusinessAnalyst/python-weekly-report)  
-- 🔍 [Example Output](https://github.com/AdamBusinessAnalyst/python-weekly-report/blob/main/example-report.pdf)
-
----
-
-## 📚 Learning & Certifications
-
-- IBM Data Analytics Professional Certificate (Coursera)  
-- DataCamp – SQL, Excel and Python tracks 
-- Ongoing: Building personal projects in SQL, Excel and Python
-- AnalystBuilder.com 
+LCC International University | Bachelor of Business Administration
 ---
 
 ## 📬 Contact
 
-If you’d like to talk about data roles, freelance projects or collaborations:
-
-- 📧 Email: adampetersoncode@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/AdamBusinessAnalyst](https://www.linkedin.com/in/adampeterson1)  
-- 🐙 GitHub: [github.com/AdamBusinessAnalyst](https://github.com/AdamBusinessAnalyst)
-
+I am open to discussing data roles, freelance automation projects, or collaborations.
